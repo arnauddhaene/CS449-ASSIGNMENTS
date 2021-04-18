@@ -1,0 +1,8 @@
+.DS_Store
+.bsp
+project/
+project/
+target/
+.vscode/*
+.metals
+spark-warehouse/
